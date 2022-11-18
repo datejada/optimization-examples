@@ -1,0 +1,46 @@
+Flight,Sequence,Value
+San Francisco - Los Angeles,Seq1,1
+Los Angeles - San Francisco,Seq1,2
+San Francisco - Denver,Seq2,1
+Denver - San Francisco,Seq2,2
+San Francisco - Seattle,Seq3,1
+Seattle - San Francisco,Seq3,2
+San Francisco - Los Angeles,Seq4,1
+Los Angeles - Chicago,Seq4,2
+Chicago - Denver,Seq4,3
+Denver - San Francisco,Seq4,4
+San Francisco - Denver,Seq5,1
+Denver - Chicago,Seq5,2
+Chicago - Denver,Seq5,3
+Denver - San Francisco,Seq5,4
+San Francisco - Seattle,Seq6,1
+Seattle - Los Angeles,Seq6,2
+Los Angeles - San Francisco,Seq6,3
+San Francisco - Los Angeles,Seq7,1
+Los Angeles - Chicago,Seq7,2
+Chicago - Seattle,Seq7,3
+Seattle - San Francisco,Seq7,4
+San Francisco - Denver,Seq8,1
+Denver - Chicago,Seq8,2
+Chicago - Seattle,Seq8,3
+Seattle - San Francisco,Seq8,4
+San Francisco - Seattle,Seq9,1
+Seattle - Los Angeles,Seq9,2
+Los Angeles - Chicago,Seq9,3
+Chicago - Denver,Seq9,4
+Denver - San Francisco,Seq9,5
+San Francisco - Los Angeles,Seq10,1
+Los Angeles - Chicago,Seq10,2
+Chicago - Seattle,Seq10,3
+Seattle - Los Angeles,Seq10,4
+Los Angeles - San Francisco,Seq10,5
+San Francisco - Denver,Seq11,1
+Denver - Chicago,Seq11,2
+Chicago - Seattle,Seq11,3
+Seattle - Los Angeles,Seq11,4
+Los Angeles - San Francisco,Seq11,5
+San Francisco - Seattle,Seq12,1
+Seattle - Los Angeles,Seq12,2
+Los Angeles - Chicago,Seq12,3
+Chicago - Seattle,Seq12,4
+Seattle - San Francisco,Seq12,5
